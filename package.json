@@ -1,0 +1,13 @@
+{
+  "name": "rakuten-price-proxy",
+  "version": "1.0.0",
+  "description": "Minimal Express + Playwright API to fetch Rakuten marketplace items",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "express": "^4.19.2",
+    "playwright": "^1.53.0"
+  }
+}
